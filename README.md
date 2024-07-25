@@ -32,7 +32,7 @@ Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados 
 1. Enlaces básicos: Crea una página con un título (h1) "Mis sitios favoritos" y una lista desordenada (ul) con 5 enlaces a diferentes sitios web.
 
 2. Menú de navegación interna: Diseña una página con un encabezado (h1) y 3 secciones (usa h2 para los títulos de sección). Crea un menú de navegación usando una lista ordenada (ol) con enlaces que dirijan a cada sección de la página.
-**Pista:** Para crear enlaces internos, usa el atributo id en las secciones y refiérete a ellos en el href con el símbolo #. Por ejemplo: <h2 id="seccion1">Sección 1</h2> y <a href="#seccion1">Ir a Sección 1</a>
+**Pista:** Para crear enlaces internos, usa el atributo id en las secciones y refiérete a ellos en el href con el símbolo #. Por ejemplo: "<h2 id="seccion1">Sección 1</h2> y <a href="#seccion1">Ir a Sección 1</a>"
 
 3. Página con anclas internas y externas: Crea una página sobre un tema de tu elección con:
   * Un título principal (h1)
@@ -40,7 +40,7 @@ Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados 
   * Enlaces internos al principio de la página que lleven a cada sección
   * En cada sección, incluye un enlace externo relacionado con el tema
   * Al final de cada sección, añade un enlace para volver al inicio de la página
-**Pista:** Para el enlace de "volver al inicio", puedes usar <a href="#">Volver arriba</a>. Los enlaces externos deben incluir el atributo target="_blank" para abrirse en una nueva pestaña.
+  * **Pista:** Para el enlace de "volver al inicio", puedes usar <a href="#">Volver arriba</a>. Los enlaces externos deben incluir el atributo target="_blank" para abrirse en una nueva pestaña.
 
 4. Galería de imágenes con enlaces: Diseña una página de galería con:
   * Un título (h1) "Mi galería de arte"
