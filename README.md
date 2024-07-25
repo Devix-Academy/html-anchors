@@ -1,4 +1,4 @@
-# Ejercicios para poner a prueba tus conocimientos de la lección: Anchors
+# Ejercicios para poner a prueba tus conocimientos de la lección: Anchors (Enlaces)
 
 **¡Desafía tus habilidades HTML!**
 
